@@ -1,0 +1,11 @@
+{
+    "steps": [
+        "step 1: Navigate to Page home",
+        "step 2: Login at Page home --> navigate to Page checkout-step-one html",
+        "step 3: Navigate to Page checkout-step-one html",
+        "step 4: Login at Page checkout-step-one html --> navigate to Page cart html",
+        "step 5: At Page cart html click on button checkout --> navigate to Page checkout-step-one html",
+        "step 6: Login at Page checkout-step-one html",
+        "step 7: Add visual checkpoint at Page checkout-step-one html"
+    ]
+}

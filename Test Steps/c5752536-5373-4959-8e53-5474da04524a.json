@@ -1,0 +1,14 @@
+{
+    "steps": [
+        "step 1: Navigate to Page home",
+        "step 2: Login at Page home --> navigate to Page checkout-step-one html",
+        "step 3: Navigate to Page checkout-step-one html",
+        "step 4: Login at Page checkout-step-one html",
+        "step 5: At Page checkout-step-one html input on input firstname",
+        "step 6: At Page checkout-step-one html input on input lastname",
+        "step 7: At Page checkout-step-one html input on input postalcode",
+        "step 8: At Page checkout-step-one html click on input continue",
+        "step 9: Login at Page checkout-step-one html --> navigate to Page checkout-step-two html",
+        "step 10: Add visual checkpoint at Page checkout-step-two html"
+    ]
+}
